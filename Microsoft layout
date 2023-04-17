@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>\
+    
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div>
+    <img src="http://placekitten.com/500/150" alt="Big Cat Pic">
+</div>
+    <div id="icons">
+      <!-- TODO: spans for icons -->
+      <span0>ICON</span0>
+      <span>ICON</span>
+      <span>ICON</span>
+      <span>ICON</span>
+      <span>ICON</span>
+      <span>ICON</span>
+    </div>
+    <div id="mini-layout">
+      <!-- TODO: Spans for 4 item wide mini-layout -->
+      <span1> <div>
+    <img src="http://placekitten.com/100/100" alt="Pic">
+</div>
+<div>
+    <strong>SO Cute</strong>
+</div>
+<div>
+    <p>The Cutes cat</p>
+</div>
+<div>
+    <a href="More Cats">more cats</a>
+</div></span1>
+
+      
+      <span2><div>
+    <img src="https://th.bing.com/th/id/OIP.FaHt5uK4jcnv_kXGWUMOvwAAAA?w=140&h=150&c=7&r=0&o=5&pid=1.7" alt="Pic">
+</div>
+<div>
+    <strong>The Coolest Dog </strong>
+</div>
+<div>
+    <p>Chilling in the sun</p>
+</div>
+<div>
+    <a href="Come chill with the dog ">Cool dogs</a>
+</div></span2></span2>
+
+      
+      <span3><div>
+    <img src="https://placebear.com/100/100" alt="Pic">
+</div>
+<div>
+    <strong>The Friendly Bear</strong>
+</div>
+<div>
+    <p>The biggest fluffy bear</p>
+</div>
+<div>
+    <a href="More on Bears">More bears</a>
+</div></span3>
+     
+      
+      
+      
+      <span4><div>
+    <img src="http://place-puppy.com/100x100" alt="Pic">
+</div>
+<div>
+    <strong>The little doggy </strong>
+</div>
+<div>
+    <p>A tiny little baby dog</p>
+</div>
+<div>
+    <a href="More about puppys">More about Puppys</a>
+</div></span4>
+
+      
+    </div>
+    
+    <link 
+    rel="stylesheet" 
+    href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" 
+    integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" 
+    crossorigin="anonymous"/>
+
+    <i class="fas fa-camera"></i>
+    <i class="fas fa-anchor"></i>
+    <i class="fa-solid fa-filter"></i>
+    <i class="fa-solid fa-circle-info"></i>
+    <i class="fa-solid fa-bookmark"></i>
+    <i class="fa-solid fa-thumbs-up"></i>
+  </body>
+
+</html>
